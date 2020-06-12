@@ -1,3 +1,3 @@
 <p align="center">
-  <img width="600" height="122" src="https://i.imgur.com/QP9agHx.gif">
+  <img width="777" height="536" src="https://i.imgur.com/QP9agHx.gif">
 </p>
