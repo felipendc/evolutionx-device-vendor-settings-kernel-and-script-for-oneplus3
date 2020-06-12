@@ -1,5 +1,6 @@
-# Git lfs 
+# Rom source code: https://github.com/Evolution-X
 
+# Git lfs 
 git lfs install 
 
 # Make clean
